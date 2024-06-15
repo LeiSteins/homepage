@@ -68,7 +68,7 @@ const siteIcon = {
   CompactDisc,
   Compass,
   Book,
-  Fire,
+  Archive,
   LaptopCode,
 };
 
