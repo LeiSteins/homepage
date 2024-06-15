@@ -2,36 +2,41 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://steins.top/blog/"
+    "link": "https://blog.steins.top/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://steins.top/pan/"
+    "link": "https://pan.steins.top/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://steins.top/music/"
+    "link": "https://music.steins.top/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://steins.top/nav/"
+    "link": "https://nav.steins.top/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://steins.top/web/"
+    "link": "https://web.steins.top/"
   },
   {
     "icon": "Archive",
     "name": "FRP",
-    "link": "https://steins.top/frp/"
+    "link": "https://frp.steins.top/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://steins.top/status/"
+    "name": "Nginx",
+    "link": "https://nginx.steins.top/"
+  }
+  {
+    "icon": "LaptopCode",
+    "name": "Dockge",
+    "link": "https://dockge.steins.top/"
   }
 ]
