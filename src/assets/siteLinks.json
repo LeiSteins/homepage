@@ -30,13 +30,13 @@
     "link": "https://frp.steins.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "Nginx",
-    "link": "https://nginx.steins.top/"
+    "icon": "Boxes",
+    "name": "Dockge",
+    "link": "https://dockge.steins.top/"
   }
   {
     "icon": "LaptopCode",
-    "name": "Dockge",
-    "link": "https://dockge.steins.top/"
+    "name": "Nginx",
+    "link": "https://nginx.steins.top/"
   }
 ]
